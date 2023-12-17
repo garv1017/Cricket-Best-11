@@ -1,2 +1,2 @@
-# Cricket-Best-11
+# Power BI Dashboard
 This is a Power Bi End To End Project
